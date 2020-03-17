@@ -8,3 +8,4 @@ Experienced software instructor with deep knowledge of the following software pr
 + CSS
 + Git & GitHub
 + TypeScript
++ Python
